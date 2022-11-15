@@ -4,12 +4,12 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/barbarbar338/discord-oauth2-example"
+		"url": "https://github.com/erensenell/example-of-login-with-discord"
 	},
 	"author": {
-		"email": "hi@338.rocks",
-		"name": "Barış DEMİRCİ",
-		"url": "https://338.rocks"
+		"email": "seneleren798@gmail.com",
+		"name": "Eren Şenel",
+		"url": "https://erensenell.github.io"
 	},
 	"dependencies": {
 		"express": "^4.17.3",
